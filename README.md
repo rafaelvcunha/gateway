@@ -45,9 +45,9 @@ para a validação do conceito , o tema é livre , contudo devera conter:
 
 * Spring Netflix Eureka
 * Spring Netflix Ribbon
-* Sprin Netflix Zuul
+* Spring Netflix Zuul
 * Comunicação rest entre pelomenos dois container
-* Erever algo base utilizando PstgreSQL
+* Escrever algo base utilizando PstgreeSQL
 
 ### Entrega:
 
