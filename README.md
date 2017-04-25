@@ -47,11 +47,11 @@ Para a validação do conceito, o tema é livre contudo deverá conter:
 * Spring Netflix Ribbon
 * Spring Netflix Zuul
 * Comunicação rest entre pelo menos dois container's
-* Escrever algo base utilizando PstgreeSQL
+* Escrever algo base utilizando PostgreeSQL
 
 ### Entrega:
 
-* A entrega deverá ser feita em algum servidor git gratuituo ou privado da empresa.
+* A entrega deverá ser feita em algum servidor git gratuito ou privado da empresa.
 * Deverá conter um readme.md explicando o projeto e as tecnologias envolvidas e como buildar e deployar.
 * Todos os container's deverão ter yaml ou json, para deployarmos no kubernets
 * Deverá funcionar no kubernets
